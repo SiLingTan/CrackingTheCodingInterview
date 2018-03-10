@@ -43,7 +43,6 @@ public class SetRowsAndColsToZero {
                     setColToZero[col] = true;
                 }
             }
-
             if (setCurrRowZero) {
                 for (col = 0; col < matrix[0].length; col++) {
                     matrix[row][col] = 0;
@@ -51,7 +50,6 @@ public class SetRowsAndColsToZero {
                 setCurrRowZero = false;
             }
         }
-
         for(col=0;col<setColToZero.length;col++){
             if(setColToZero[col]){
                 for(row=0;row<matrix.length;row++){
