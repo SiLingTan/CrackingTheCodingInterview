@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CrackingTheCodingInterview.iml" filepath="$PROJECT_DIR$/.idea/modules/CrackingTheCodingInterview.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CrackingTheCodingInterview_main.iml" filepath="$PROJECT_DIR$/.idea/modules/CrackingTheCodingInterview_main.iml" group="CrackingTheCodingInterview" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CrackingTheCodingInterview_test.iml" filepath="$PROJECT_DIR$/.idea/modules/CrackingTheCodingInterview_test.iml" group="CrackingTheCodingInterview" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/main.iml" filepath="$PROJECT_DIR$/src/main/main.iml" />
     </modules>
   </component>
 </project>
