@@ -2,6 +2,7 @@ package Chap5_BitManipulation;
 
 public class Insertion {
     public static void main(String[] args) {
+        // TODO: how to take in just the numbers
         int n = (int) Math.pow(2,10);
         int m = (int) Math.pow(2,4)+3;
         int i = 2;
