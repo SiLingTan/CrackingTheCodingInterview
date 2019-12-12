@@ -18,10 +18,7 @@ public class Insertion {
     }
 
     public static int padZeros(int m, int i){
-        for(int k=0; k<i;k++){
-            m<<=1;
-        }
-        return m;
+        return m<<i;
     }
 
     public static String convertToBinary(int num){
